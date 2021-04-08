@@ -1,0 +1,115 @@
+
+body{
+    background:burlywood ;
+    font-family: 'Courier New', Courier, monospace;
+}
+.dashboard{
+    height: 200%;
+    padding: 30px;
+    padding-top: 40px;
+    background-color:rgb(160, 238, 252);
+    margin:45px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 25px;
+}
+
+.linkpage{
+    padding: 12px;
+}
+a:link {
+    
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(105, 118, 131);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:skyblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+ 
+.dashboard-body{
+    max-width:100%;
+    height: auto;
+    background-color:white;
+    margin: 45px;
+    padding: 30px;
+    padding-left: 70px;
+    font-size: 25px;
+    text-align: left;
+    border-radius:25px;
+  
+}
+table{
+    margin:40px 0px 0px -32px;
+
+}
+td{
+    padding: 6px;
+    background: white;
+    border-width: 2px;
+    border-color:burlywood;
+    border-style: solid;
+}
+td:hover{
+    
+    background-color:rgb(211, 211, 212);
+} 
+   
+img{
+   
+    max-width:250px;  
+    height:auto;
+    border-radius: 25px;
+    padding: 12px;
+    margin-top: 30px;
+}
+.title_gallery{
+    font-size: 45px;
+    background-color: burlywood;
+    padding: 12px;
+    margin-left: 200px;
+    border-radius: 25px;
+   
+}
+.description{
+    font-size: 15px;
+
+    
+}
+.TriviaTitle{
+font-size: 40px;
+background-color:burlywood;
+padding: 12px;
+margin-left: 400px;
+border-radius: 25px;
+}
+.infotitle{
+font-size: 40px;
+background-color: burlywood;
+padding: 12px;
+margin-left: 290px;
+border-radius: 25px;
+}
+.infotable td{
+   
+   padding: 20px;
+   background: white; 
+    text-align: justify;
+}
+.infotable td:hover{
+    background-color:rgb(211, 211, 212);
+} 
+
+.pawphoto{
+    max-width:250px;
+    height: auto;
+    margin-left: 40px;
+
+}
